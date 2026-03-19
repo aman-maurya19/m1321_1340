@@ -56,6 +56,11 @@ def build_urls(BASE_URL):
         # "qna": "https://ask.shiksha.com/which-is-better-for-mba-iim-ahmedabad-or-jbims-qna-5114413"
     }
 # ---------------- DRIVER ----------------
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+
+
 def create_driver():
     options = Options()
 
@@ -66,22 +71,22 @@ def create_driver():
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
 
-    # Optional but good
+    # Optional
     options.add_argument(
         "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     )
 
-    # Important for Ubuntu runner
-    options.binary_location = "/usr/bin/chromium"
+    # ✅ Correct binary (Chrome, not Chromium)
+    options.binary_location = "/usr/bin/google-chrome"
 
-    service = Service(ChromeDriverManager().install())
+    # ✅ Use pre-installed chromedriver
+    service = Service("/usr/local/bin/chromedriver")
 
     return webdriver.Chrome(
         service=service,
         options=options
     )
-
 
 # ---------------- UTILITIES ----------------
 def scroll_to_bottom(driver, scroll_times=3, pause=1.5):
