@@ -1,7 +1,7 @@
 [
   {
     "college_details": {
-      "id": "college_1321",
+      "id": "college_1331",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -174,7 +174,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -186,7 +186,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -198,7 +198,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -360,7 +360,7 @@
   },
   {
     "college_details": {
-      "id": "college_1322",
+      "id": "college_1332",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -533,7 +533,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -545,7 +545,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -557,7 +557,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -719,7 +719,7 @@
   },
   {
     "college_details": {
-      "id": "college_1323",
+      "id": "college_1333",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -892,7 +892,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -904,7 +904,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -916,7 +916,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -1078,7 +1078,7 @@
   },
   {
     "college_details": {
-      "id": "college_1324",
+      "id": "college_1334",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1251,7 +1251,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1263,7 +1263,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1275,7 +1275,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -1437,7 +1437,7 @@
   },
   {
     "college_details": {
-      "id": "college_1325",
+      "id": "college_1335",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1610,7 +1610,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1622,7 +1622,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1634,7 +1634,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -1796,7 +1796,7 @@
   },
   {
     "college_details": {
-      "id": "college_1326",
+      "id": "college_1336",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -1969,7 +1969,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -1981,7 +1981,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -1993,7 +1993,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -2155,7 +2155,7 @@
   },
   {
     "college_details": {
-      "id": "college_1327",
+      "id": "college_1337",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -2328,7 +2328,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -2340,7 +2340,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -2352,7 +2352,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -2514,7 +2514,7 @@
   },
   {
     "college_details": {
-      "id": "college_1328",
+      "id": "college_1338",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -2687,7 +2687,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -2699,7 +2699,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -2711,7 +2711,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -2873,7 +2873,7 @@
   },
   {
     "college_details": {
-      "id": "college_1329",
+      "id": "college_1339",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -3046,7 +3046,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -3058,7 +3058,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -3070,7 +3070,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
@@ -3232,7 +3232,7 @@
   },
   {
     "college_details": {
-      "id": "college_1330",
+      "id": "college_1340",
       "college_info": {
         "college_info": {
           "college_info": {
@@ -3405,7 +3405,7 @@
             "links": [],
             "user_feedback": "",
             "video_content": false,
-            "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+            "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
           },
           "placement_sections": {
             "average_package": {
@@ -3417,7 +3417,7 @@
               "graph_image": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             },
             "pgp_placements": {
               "title": "IIM Ahmedabad PGP Placements 2025",
@@ -3429,7 +3429,7 @@
               "placement_rating": "",
               "source_info": "",
               "complete_content": "",
-              "error": "Message: \nStacktrace:\n#0 0x55f5d08afb6a <unknown>\n#1 0x55f5d02c2a32 <unknown>\n#2 0x55f5d0317d66 <unknown>\n#3 0x55f5d0317fa1 <unknown>\n#4 0x55f5d0363144 <unknown>\n#5 0x55f5d0360369 <unknown>\n#6 0x55f5d0309c0f <unknown>\n#7 0x55f5d030a9d1 <unknown>\n#8 0x55f5d08746b9 <unknown>\n#9 0x55f5d08775c1 <unknown>\n#10 0x55f5d0860e29 <unknown>\n#11 0x55f5d087817e <unknown>\n#12 0x55f5d08474b0 <unknown>\n#13 0x55f5d089c578 <unknown>\n#14 0x55f5d089c74b <unknown>\n#15 0x55f5d08ae1a3 <unknown>\n#16 0x7f7d6049caa4 <unknown>\n#17 0x7f7d60529c6c <unknown>\n"
+              "error": "Message: \nStacktrace:\n#0 0x559f889a4b6a <unknown>\n#1 0x559f883b7a32 <unknown>\n#2 0x559f8840cd66 <unknown>\n#3 0x559f8840cfa1 <unknown>\n#4 0x559f88458144 <unknown>\n#5 0x559f88455369 <unknown>\n#6 0x559f883fec0f <unknown>\n#7 0x559f883ff9d1 <unknown>\n#8 0x559f889696b9 <unknown>\n#9 0x559f8896c5c1 <unknown>\n#10 0x559f88955e29 <unknown>\n#11 0x559f8896d17e <unknown>\n#12 0x559f8893c4b0 <unknown>\n#13 0x559f88991578 <unknown>\n#14 0x559f8899174b <unknown>\n#15 0x559f889a31a3 <unknown>\n#16 0x7ffb6689caa4 <unknown>\n#17 0x7ffb66929c6c <unknown>\n"
             }
           }
         }
