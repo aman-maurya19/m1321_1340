@@ -15,26 +15,26 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
-  "https://www.shiksha.com/college/jamia-tibbiya-deoband-saharanpur-86969",
-  "https://www.shiksha.com/college/yashwantrao-bhonsale-college-of-pharmacy-sawantwadi-88423",
-  "https://www.shiksha.com/college/m-s-m-institute-of-ayurveda-sonepat-195367",
-  "https://www.shiksha.com/college/shri-dhanvantri-ayurvedic-medical-college-karnataka-other-185775",
-  "https://www.shiksha.com/college/ppce-viman-nagar-ruby-hall-clinic-bund-garden-bund-garden-road-pune-38376",
-  "https://www.shiksha.com/college/dr-d-y-patil-institute-of-optometry-and-visual-sciences-pune-190223",
-  "https://www.shiksha.com/college/the-oxford-college-of-physiotherapy-bangalore-202019",
-  "https://www.shiksha.com/college/trinity-college-of-pharmacy-pune-208101",
-  "https://www.shiksha.com/college/sonekar-college-of-pharmacy-nagpur-87697",
-  "https://www.shiksha.com/college/bhai-gurdas-degree-college-sangrur-140971",
-  # "https://www.shiksha.com/university/iilm-university-gurgaon-56587",
-  # "https://www.shiksha.com/college/oriental-college-of-pharmacy-bhopal-147525",
-  # "https://www.shiksha.com/college/sardar-patel-college-of-pharmacy-gorakhpur-65485",
-  # "https://www.shiksha.com/college/the-lotus-college-of-optometry-juhu-mumbai-29756",
-  # "https://www.shiksha.com/university/jagran-lakecity-university-bhopal-38105",
-  # "https://www.shiksha.com/college/anantrao-kanase-homoeopathic-medical-college-maharashtra-other-70067",
-  # "https://www.shiksha.com/college/jagadguru-gangadhar-mahaswamigalu-moorsavirmath-medical-college-hubli-180681",
-  # "https://www.shiksha.com/college/medical-college-and-hospital-bharati-vidyapeeth-sangli-54845",
-  # "https://www.shiksha.com/college/girijananda-chowdhury-institute-of-pharmaceutical-science-tezpur-149845",
-  # "https://www.shiksha.com/college/faculty-of-physiotherapy-maher-k-k-nagar-chennai-154909",
+  "https://www.shiksha.com/college/ali-yabar-jung-national-institute-for-hearing-handicapped-kolkata-116997",
+  "https://www.shiksha.com/college/g-d-c-memorial-college-bhiwani-123519",
+  "https://www.shiksha.com/college/government-shivalik-college-naya-nangal-rupnagar-133359",
+  "https://www.shiksha.com/college/shri-gajanan-shiksha-samiti-college-hoshangabad-147183",
+  "https://www.shiksha.com/college/s-d-ayurvedic-medical-college-and-hospital-ranchi-187697",
+  "https://www.shiksha.com/college/akila-thiruvithamcore-siddha-vaidhya-kalloori-siddha-medical-college-and-hospital-kanyakumari-193687",
+  "https://www.shiksha.com/college/unity-institute-of-paramedical-sciences-mangalore-199427",
+  "https://www.shiksha.com/college/sunrise-college-of-physiotherapy-college-bidar-210629",
+  "https://www.shiksha.com/college/betwanchal-group-of-institutions-vidisha-230050",
+  "https://www.shiksha.com/college/bgs-medical-college-and-hospital-bangalore-232920",
+  "https://www.shiksha.com/college/annaii-medical-college-and-hospital-sriperumbudur-234512",
+  "https://www.shiksha.com/college/sikkim-college-of-pharmacy-and-research-sikkim-other-237484",
+  "https://www.shiksha.com/college/kims-kingsway-hospitals-nagpur-243660",
+  "https://www.shiksha.com/college/indira-institute-of-professional-studies-bhopal-147331",
+  "https://www.shiksha.com/college/dr-m-v-shetty-institute-of-health-sciences-mangalore-185867",
+  "https://www.shiksha.com/college/khyati-college-of-physiotherapy-ahmedabad-197159",
+  "https://www.shiksha.com/college/department-of-pharmacy-pune-198397",
+  "https://www.shiksha.com/college/stephens-college-of-pharmacy-jammu-236486",
+  "https://www.shiksha.com/college/crk-college-of-pharmacy-hajipur-vaishali-237372",
+  "https://www.shiksha.com/college/institute-of-business-management-and-research-ibmr-kolkata-e-m-bypass-40727",
 ]
 
 
@@ -9237,7 +9237,7 @@ def parse_faq_scholarships_section(driver, URLS):
 def scrape_mba_colleges():
     driver = create_driver()
     all_data = []
-    c_count = 1331
+    c_count = 3021
 
     try:
         for base_url in BASE_URL:
